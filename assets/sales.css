@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding:3px;
+    box-sizing: border-box;
+  }
+ 
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .input-box{
+    color:rgb(2, 0, 128)
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+ .content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  /* .jaga {
+    width:30%;
+  } */
+  label.error{
+    color:red;
+  }
+  
+  
+  
+   
+  
+  
